@@ -3,4 +3,13 @@
     <string name="about_the_author">About the author</string>
     <string name="about_author">About the author</string>
     <string name="main_activity">NY Times</string>
+    <string name="junior">Junior Android developer</string>
+    <string name="education">Engineer of electronic systems</string>
+    <string name="about">Nataliya began to learn programming in December 2019. Now she has an entry level in Java and Android programming.  </string>
+    <string name="enter_a_message">Enter a message..</string>
+    <string name="send_message">SEND MESSAGE</string>
+    <string name="telegram_address">https://t.me/NataRozhkova</string>
+    <string name="vkontakte_address">https://vk.com/id442487</string>
+    <string name="instagram_address">https://www.instagram.com/natasha__rozhkova/</string>
 </resources>
+
