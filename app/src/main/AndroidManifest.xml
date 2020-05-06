@@ -16,7 +16,11 @@
             android:label="@string/about_author">
 
         </activity>
-        <activity android:name=".MainActivity"
+        <activity
+            android:name=".FullNewsActivity">
+
+        </activity>
+        <activity android:name=".NewsListActivity"
             android:label="@string/main_activity"
             >
             <intent-filter>
